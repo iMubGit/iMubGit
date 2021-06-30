@@ -3,8 +3,9 @@ Oh! I haven't introduced myself...
 - 👀 I’m interested in Web development,Infosecurity,Cybersecurity and marketing and crytpto
 - 🌱 I’m currently learning more Css 
 - 💞️ I’m looking to collaborate on Web dev, Infosec and CyberSec.
-- 📫 How to reach me: @iMubSpace on the bird app;
-                       imubmail@protonmail.com
+- 📫 How to reach me: 
+                   🌱 On the bird app:    @iMubSpace
+                   🌱 Secured Mail   :    imubmail@protonmail.com
 
 <!---
 iMubGit/iMubGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
